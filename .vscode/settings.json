@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#8C6449",
+        "titleBar.activeForeground": "#EDE3D9",
+        "titleBar.inactiveBackground": "#6F4F3A",
+        "titleBar.inactiveForeground": "#D8CCC0",
+        "activityBar.background": "#8C6449",
+        "activityBar.foreground": "#EDE3D9",
+        "activityBar.inactiveForeground": "#C6AF9D",
+        "activityBarBadge.background": "#5A3F2C",
+        "activityBarBadge.foreground": "#EDE3D9"
+    },
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80
+    },
+    "[plaintext]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80
+    }
+}
