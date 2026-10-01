@@ -17,5 +17,8 @@
     "[plaintext]": {
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 80
+    },
+    "[html]": {
+        "editor.wordWrap": "on"
     }
 }

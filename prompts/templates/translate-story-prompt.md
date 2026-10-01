@@ -25,7 +25,7 @@ translation-guide-fr-to-en.md]
 
 ## Output Format
 
-- Produce the complete translated text as a single file in MD format.
+- Produce the complete translated text as a single HTML file, to facilitate printing. Use the simplest HTML format you can (no complicated CSS styles).
 - Preserve the original document structure: title, author credit, section breaks, formatting.
 - Append a **Translation Notes** section at the end of the file documenting: difficult passages and the solutions chosen, terminology decisions, any significant departures from the source text and the reason for them.
 

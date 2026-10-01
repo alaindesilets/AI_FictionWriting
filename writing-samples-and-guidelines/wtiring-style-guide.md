@@ -2,6 +2,8 @@
 
 This document summarizes the aesthetic principles, voice, and craft preferences that define Alain Désilets's literary SF fiction. It is intended as a reference for AI-assisted writing experiments.
 
+**How to use this guide.** None of the principles below are absolute rules. Deviating from any of them is fine — sometimes better than fine — but it should be a deliberate choice, made for a reason, not an oversight that slipped through. If a careful reader pointed at the inconsistency, there should be an answer ready. Sometimes that answer is legitimately "I don't know why — it just feels right here." That's a valid reason, as long as the choice was conscious rather than a default.
+
 ---
 
 ## Voice and Tone
@@ -9,6 +11,7 @@ This document summarizes the aesthetic principles, voice, and craft preferences 
 - **Clinical and restrained — in third-person narration.** When the story is told in third person, the narrative voice is precise, controlled, and emotionally understated. It observes rather than emotes. Think of the voice of a scientist who has learned to write fiction — not cold, but measured. First-person narrators may have more personality and range, depending on the character.
 - **The third-person narrator has no business poking in characters' heads.** Following Hemingway's principle, the narrator does not grant itself access to characters' inner states. It reports what can be seen, heard, and inferred — not what is felt or thought. Interiority emerges through behaviour, dialogue, and implication, not through narrated psychology. The narrator is not omniscient; it is a restrained, external observer.
 - **Dry wit.** Humour surfaces occasionally, usually through irony or understatement, never through jokes. It coexists naturally with serious subject matter.
+- **Free indirect style is how the narrator gets to be witty without breaking its own rule.** This reconciles the two principles above, which otherwise sit in tension: the narrator can't be inside a character's head, but its word choice can still momentarily borrow the color of that character's own idiom — as if the sentence were the character's own thought, filtered through the narrator's economy, without ever stating it's a thought. When this happens, the words chosen have to actually sound like that character, not like the narrator being clever on the character's behalf. Case in point: for a scene ending on Jon Morin's indifference, "He obliged more than willingly" is dry, but it's the narrator's own literary irony, not Morin's voice — a slangy, irreverent hacker wouldn't think in those words. "Worked for him." is shorter, plainer, and sounds like something closer to what Morin himself would think or say — that's the test to apply. This extends to cultural references too, not just word choice: when a specific, vivid reference is available (as with "fortress of solitude" for the geeky Morin — see the translation guide's "Asymmetric cultural reach"), it only earns its place if it's plausibly *that character's* reference, not just a generically striking one the narrator happened to like.
 - **No moralizing.** The narrator never tells the reader what to think or feel. Ethical questions are raised through situation and dialogue, not authorial commentary.
 - **Non-native English speaker writing in English.** The prose should be correct and idiomatic, but not showy. Plain narration is preferred; idioms and colour should be reserved for character dialogue, not narrative description.
 
@@ -32,6 +35,7 @@ This document summarizes the aesthetic principles, voice, and craft preferences 
 - **Concrete and located.** Details are specific: a brand name, a street, a physical sensation, a precise gesture. Vague or generic description is avoided.
 - **Dialogue as character revelation.** Dialogue carries weight. Characters speak differently from each other and from the narrator. It is never expository.
 - **No purple prose.** Atmosphere receives some attention but is not the main focus. Logical and emotional coherence matter more than lyrical description.
+- **Read it aloud.** This catches a different class of problem than reading silently: sounds that clash or trip up the tongue (e.g. "Doc Martens boots beaten" — the repeated *b* sounds fight each other) even when every word is individually correct. Silent reading checks meaning; reading aloud checks texture.
 
 ---
 
@@ -118,7 +122,7 @@ These stories are historical fiction about a history that hasn't happened yet �
 - Expository dialogue ("As you know, Bob...")
 - Authorial intrusion or editorializing
 - Overly long sentences that obscure rather than clarify
-- Repetition of words within close proximity (unless deliberate)
+- Repetition of words within close proximity (unless deliberate) — this catches small function words (prepositions, conjunctions, auxiliaries) just as much as content words. "Oddly tidy *for* a man with his reputation *for* anarchist leanings" reads as an error even though neither "for" alone is remarkable; the echo is what trips the reader. Restructuring often introduces these accidentally, so re-read specifically for them, not just for repeated nouns/verbs
 - Any form of moralizing or message-delivery
 
 ---

@@ -6,6 +6,8 @@ It is written in terms of translsation from English to French because it is the 
 
 Many of the principles listed here are things that Alain learned from Louise Brunette, a close friend, and seasoned professional translator and revisor.
 
+**How to use this guide.** None of the principles below are absolute rules. Deviating from any of them is fine — sometimes better than fine — but it should be a deliberate choice, made for a reason, not an oversight that slipped through. If a careful reader pointed at the inconsistency, there should be an answer ready. Sometimes that answer is legitimately "I don't know why — it just feels right here." That's a valid reason, as long as the choice was conscious rather than a default.
+
 ---
 
 ## Foundational Principle
@@ -13,7 +15,11 @@ Many of the principles listed here are things that Alain learned from Louise Bru
 **Translation is rewriting, not transposition.**
 
 A translated story should read as if it were originally written in the target language. The goal is never to produce a faithful rendering of the English sentence — it is to find the French sentence that does the same work. When these two objectives conflict, the French sentence wins.
-s
+
+**Asymmetric cultural reach.** Sometimes the target language has a fixed cultural reference or image for the exact sense being rendered, and the source language doesn't have an equivalent of comparable vividness. Use it anyway — don't hold back just because the source text wasn't that specific or that loaded. Fidelity is to the sense and effect, not to matching the source's level of cultural specificity in each direction symmetrically. Case in point: the French original said only *son château fort personnel* — a plain descriptive phrase, no particular cultural weight. The English translation first rendered it as "his own personal fortress," accurate but generic. The final choice, "his fortress of solitude," reaches for a specific, widely recognized English-language image that French has no equivalent fixed phrase for — and it does the work far better than the neutral version, because the target language happened to have that tool available even though the source didn't.
+
+This isn't just a lucky asymmetry between the two languages, though — it also has to pass the free indirect style test from the writing style guide. "Fortress of solitude" works specifically because Morin is written as a geek, so the reference plausibly belongs to *his* cultural vocabulary, filtered through the narrator, not just a generically vivid phrase the narrator happened to reach for. A rich target-language reference that the character in question wouldn't recognize or use is the wrong choice even if it's the more idiomatic one available.
+
 ---
 
 ## Process: Three Phases (after Louise Brunette)
@@ -60,6 +66,14 @@ Common categories in English → French translation:
 - English idioms translated literally: "take it easy" → not "prends-le facilement"
 - Phrasal verbs rendered word-for-word
 - Test: would a native French speaker write this sentence, or does it smell of translation?
+
+**Cognate calques (false friends)**
+- A verb or word that looks identical or near-identical in both languages is suspect by default, in either translation direction — the resemblance itself is what makes it tempting, not evidence that it's the right choice. Example: French *choquer* → English "shock" is available and not wrong, but it's the reflexive first guess precisely because the cognate exists, and it's worth checking whether a native speaker would actually reach for that word here or for something else (provoke, needle, rattle, unsettle...).
+- This is distinct from ordinary idiomatic calques (which mistranslate a whole expression) — a cognate calque can produce a sentence that is perfectly grammatical and even plausible, which is what makes it easy to miss on a single read-through. Treat any cognate pair as guilty until proven innocent, not the reverse.
+
+**Preposition calques**
+- Prepositions are chosen by idiom and collocation, almost never by logic, and they rarely map one-to-one between French and English. A preposition can be "reasonable" by analogy with some other phrase and still be simply wrong here — there is no substitute for checking the specific collocation. Examples from this story: "at this Bay Street ___" felt plausible but "in this Bay Street ___" was the natural fit once the noun changed from an institution-name-like word to a place-you-work-inside word; a reflex "for a man with his reputation for X" produced two "for"s in one breath, which is itself a symptom of leaning on the same preposition out of habit rather than choosing it deliberately each time.
+- Because prepositions carry so little semantic weight on their own, an error there is easy to miss on a read-through that's checking for meaning — it takes a pass that's specifically listening for small words.
 
 **Rhythmic calques**
 - Sentence length and rhythm differ between English and French literary prose
@@ -151,12 +165,14 @@ After Phase 2, evaluate the translation against these questions:
 
 1. Read aloud: does it sound like French prose, or like translated text?
 2. Are there any sentences a native French speaker would not have written?
+2a. Separately from (1) — read aloud for texture, not just idiom: do any sounds clash or trip up the tongue (repeated consonants, awkward clusters) even when every word is individually correct? This is a different failure mode from sounding "translated," and it needs its own pass.
 3. Are all em dashes resolved?
 4. Is the terminology consistent throughout?
 5. Does the dialogue retain the character's voice and register?
 6. Are Quebec idioms present where appropriate, without tipping into opacity?
 7. Does the title work as a French title, independent of the English original?
 8. Are canonical texts (quoted laws, song lyrics, famous passages) using their published French translations?
+9. Did restructuring introduce an accidental echo — the same word, including small function words like prepositions, sitting too close together? Splitting or merging sentences during redraft is exactly when these slip in, and they read as an error even when neither instance is individually remarkable (e.g. "tidy *for* a man with his reputation *for* anarchist leanings").
 
 ---
 

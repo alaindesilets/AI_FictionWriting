@@ -1,4 +1,5 @@
-AI Story Writing Prompt
+# AI Story Writing Prompt
+
 You are going to write a short story (approximately 10 pages, 
 2500-3000 words) whose working title is: "Memoirs of a Very Old Man".
 
@@ -31,4 +32,10 @@ Important constraints:
 - The story must feel complete, not like a draft or an excerpt.
 - Trust the process. Surprise me.
 - If it seems appropriate, use an adversary proces. Have two 
+
+## Output
+
+- Produce the complete translated text as a single HTML file, to facilitate printing. Use the simplest HTML format you can (no complicated CSS styles). 
+- Put the file under writing-samples-and-guidelines/sample-stories/in-progress
+
 
